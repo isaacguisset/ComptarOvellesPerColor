@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComptarOvellesPerColor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee7cc712230fa71b0377b0084f3ecbb52339a891")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f1cef9bc67d0f9aa4ab5a473ea8827336fa2a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComptarOvellesPerColor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComptarOvellesPerColor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

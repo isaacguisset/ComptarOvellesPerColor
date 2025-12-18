@@ -1,5 +1,4 @@
-﻿//exercici finalitzat correctament
-public class Program
+﻿public class Program
 {
     public static void Main()
     {
@@ -26,7 +25,7 @@ public class Program
         int Blanques = 0;
         int Blanc_i_Negre = 0;
         int meitat = Ovelles.Length / 2;
-        for (int i = 0; i < meitat; i++)
+        for (int i = 0; i < meitat; i++)//també podem posar directament Ovelles.Length/2
         {
             var actual = Ovelles[i];
             var seguent = Ovelles[Ovelles.Length- 1-i]; 
