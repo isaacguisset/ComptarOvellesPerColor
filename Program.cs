@@ -31,7 +31,6 @@ public class Program
             var actual = Ovelles[i];
             var seguent = Ovelles[Ovelles.Length- 1-i]; 
 
-
             Console.WriteLine($"Actual = {actual} seguent={seguent}");
             if (actual == seguent)
             {
