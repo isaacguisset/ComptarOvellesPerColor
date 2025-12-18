@@ -1,0 +1,15 @@
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/bin/Debug/net8.0/ComptarOvellesPerColor
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/bin/Debug/net8.0/ComptarOvellesPerColor.deps.json
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/bin/Debug/net8.0/ComptarOvellesPerColor.runtimeconfig.json
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/bin/Debug/net8.0/ComptarOvellesPerColor.dll
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/bin/Debug/net8.0/ComptarOvellesPerColor.pdb
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.AssemblyInfoInputs.cache
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.AssemblyInfo.cs
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.csproj.CoreCompileInputs.cache
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.sourcelink.json
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.dll
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/refint/ComptarOvellesPerColor.dll
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.pdb
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ComptarOvellesPerColor.genruntimeconfig.cache
+/home/isaac/Documentos/csharp/Exercicis/ComptarOvellesPerColor/obj/Debug/net8.0/ref/ComptarOvellesPerColor.dll

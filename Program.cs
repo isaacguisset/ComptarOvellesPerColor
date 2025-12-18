@@ -14,7 +14,9 @@
                             "negra",//parella4
                       "blanca",//parella3
                  "negra",//parella2
-            "negra"//parella1 //7
+            "negra",
+                        "negra"//parella1 //7
+//parella1 //7
                 
         };
         ComptarOvellesPerColor(Ovelles);
@@ -24,6 +26,11 @@
         int Negres = 0;
         int Blanques = 0;
         int Blanc_i_Negre = 0;
+        if (Ovelles.Length % 2 != 0)
+        {
+            Console.WriteLine("La longitud de la llista ha de ser un número parell!");
+            return;
+        }
         int meitat = Ovelles.Length / 2;
         for (int i = 0; i < meitat; i++)//també podem posar directament Ovelles.Length/2
         {
