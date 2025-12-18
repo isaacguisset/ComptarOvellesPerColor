@@ -19,4 +19,4 @@ La llista d’ovelles ha de tenir un nombre parell d’elements; si no, el progr
 
 ### Objectiu:
 Donada una llista de colors, el programa calcula quantes ovelles hi ha de cada tipus i les mostra per pantalla.
-> Aquest exercici i els dibuixos els creat en Xavier Sala --- [@utrescu](https://github.com/utrescu) 
+> Aquest exercici i els dibuixos els ha creat en Xavier Sala --- [@utrescu](https://github.com/utrescu) 
